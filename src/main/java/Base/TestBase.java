@@ -21,8 +21,7 @@ public class TestBase {
 
     public static WebDriver driver = null;
     private static Properties prop = null;
-    private static FileInputStream fileInput;
-    private static int implicitWait = 10;
+    private static final int implicitWait = 10;
 
 
     /**
@@ -32,6 +31,7 @@ public class TestBase {
      */
     protected static void readPropertiesFileAndSetup() {
         try {
+            FileInputStream fileInput;
             prop = new Properties();
             fileInput = new FileInputStream(".\\src\\test\\Resources\\Properties\\"
                     + setEnvironment() + "_env.properties");
@@ -106,4 +106,6 @@ public class TestBase {
         return prop.getProperty(propValue);
     }
 
+
+//this is test commit update
 }
