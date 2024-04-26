@@ -24,7 +24,6 @@ public class NewsEngage extends BasePageObjects {
     public void engageNews()
     {
         navigateToNews();
-        clickelectric_car();
         backetonewstab();
     }
 }

@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af809f7e-bdd2-4f3d-a6e4-4f5459332bfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageFactory/NewsEngage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/NewsEngageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/NewsEngage.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageFactory/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFactory/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/Properties/dev_env.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/Properties/dev_env.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/ApplicationLoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/ApplicationLoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/ClientSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/ClientSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/ApplicationLogin.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/ApplicationLogin.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+    <list default="true" id="af809f7e-bdd2-4f3d-a6e4-4f5459332bfb" name="Changes" comment="EngageDemo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageFactory/NewsEngage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFactory/NewsEngage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jineha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jineha/EngageQA.git",
+    "accountId": "2bcdba8d-35a2-4665-9230-d3be85467a2b"
+  }
+}]]></component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
       <run-configuration type="JUnit" name="TestRunner" />
@@ -215,6 +214,15 @@
       <option name="presentableId" value="Default" />
       <updated>1713935678450</updated>
     </task>
+    <task id="LOCAL-00001" summary="EngageDemo">
+      <option name="closed" value="true" />
+      <created>1714112673396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714112673396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,13 +271,6 @@
                       </list>
                     </value>
                   </entry>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="jineha.thakkar@mrisoftware.com" />
-                      </list>
-                    </value>
-                  </entry>
                 </map>
               </option>
             </State>
@@ -277,5 +278,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EngageDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="EngageDemo" />
   </component>
 </project>
