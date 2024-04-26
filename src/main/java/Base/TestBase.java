@@ -33,6 +33,9 @@ public class TestBase {
         try {
             FileInputStream fileInput;
             prop = new Properties();
+
+
+
             fileInput = new FileInputStream(".\\src\\test\\Resources\\Properties\\"
                     + setEnvironment() + "_env.properties");
             prop.load(fileInput);
@@ -105,7 +108,4 @@ public class TestBase {
     public static String getProperty(String propValue) {
         return prop.getProperty(propValue);
     }
-
-
-//this is test commit update
 }

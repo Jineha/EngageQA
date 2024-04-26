@@ -10,12 +10,11 @@ public class Login extends BasePageObjects {
     }
 
     //<editor-fold desc="login page element locators">
-    By _username = By.id("email");
-    By _password = By.id("password");
-    By _loginButton = By.xpath("//Button[contains(text(),'LOGIN')]");
-    By _dashboardHeading = By.xpath("//h1[contains(@class,'title')]");
-    By _invalidLoginInfoMsg = By.id("infoMessage");
-    By _loginPageHeader = By.xpath("//h1[normalize-space()='Welcome Back']");
+    By _username = By.id("floatingInput");
+    By _password = By.id("floatingPassword");
+    By _loginButton = By.xpath("//*[@id=\"login-button\"]");
+    By _acceptCookies = By.xpath("//button[normalize-space()='I understand']");
+
 
     //</editor-fold>
 
@@ -31,14 +30,11 @@ public class Login extends BasePageObjects {
     public void clickApplicationLoginButton() {
         clickElement(_loginButton);
     }
-    public String GetLandingPageText() {
-        return getElementText(_dashboardHeading);
-    }
-    public String getInvalidLoginInfoText() {
-        return getElementText(_invalidLoginInfoMsg);
-    }
+    public void acceptCookies() {
 
-    public boolean landingPageHeaderDisplay() {return driver.findElements(_loginPageHeader).size() > 0; }
+        clickElement(_acceptCookies);
+        sleep(10000);
+    }
 
     //</editor-fold>
 
