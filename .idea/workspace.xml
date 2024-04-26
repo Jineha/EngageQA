@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af809f7e-bdd2-4f3d-a6e4-4f5459332bfb" name="Changes" comment="EngageDemo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageFactory/NewsEngage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFactory/NewsEngage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,23 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jineha"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jineha&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jineha/EngageQA.git",
-    "accountId": "2bcdba8d-35a2-4665-9230-d3be85467a2b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jineha/EngageQA.git&quot;,
+    &quot;accountId&quot;: &quot;2bcdba8d-35a2-4665-9230-d3be85467a2b&quot;
   }
-}]]></component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="TestRunner" />
-    </enabled-run-configurations>
-  </component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,7 +62,8 @@
     "git-widget-placeholder": "EngageDemo",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Jineha.Thakar/Desktop/CTMPROUIAutomation/CTMPROUIAutomation/pom.xml"
+    "last_opened_file_path": "C:/Users/Jineha.Thakar/Desktop/CTMPROUIAutomation/CTMPROUIAutomation/pom.xml",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -222,7 +217,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714112673396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="EngageDemo">
+      <option name="closed" value="true" />
+      <created>1714113139548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113139548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="EngageDemo">
+      <option name="closed" value="true" />
+      <created>1714130715487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714130715487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,19 +272,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="EngageDemo" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
