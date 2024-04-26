@@ -34,20 +34,25 @@ public class NewsEngageSteps {
         news.navigateToNews();
 
         news.clickelectric_car();
-        news.sleep(2000);
         news.backetonewstab();
-
-        news.sleep(2000);
-
+        news.sleep(1500);
         news.com_volunteering();
-        news.sleep(3000);
-        news.backetonewstab();
 
-        news.sleep(2000);
+        news.backetonewstab();
+        news.sleep(1500);
 
         news.running_club();
-        news.sleep(5000);
         news.backetonewstab();
+        news.sleep(1500);
+
+        news.coffee_morning();
+        news.backetonewstab();
+        news.sleep(1500);
+
+        news.gym_equipment();
+        news.backetonewstab();
+
+        news.parking_permits();
     }
 
     @Then("User should be redirect to news tab successfully")
